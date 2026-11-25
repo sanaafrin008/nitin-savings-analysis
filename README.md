@@ -1,6 +1,6 @@
 # Helping Nitin Save for His Scooter
 
-[![CI](https://github.com/OWNER/nitin-savings-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/nitin-savings-analysis/actions/workflows/ci.yml)
+[![CI](https://github.com/sanaafrin008/nitin-savings-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/sanaafrin008/nitin-savings-analysis/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -112,7 +112,7 @@ nitin-savings-analysis/
 ## Getting started
 
 ```bash
-git clone https://github.com/OWNER/nitin-savings-analysis.git
+git clone https://github.com/sanaafrin008/nitin-savings-analysis.git
 cd nitin-savings-analysis
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
